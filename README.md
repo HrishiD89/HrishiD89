@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Fullstack project for my college 6 sem MiniProject<br>I'm looking to collaborate on Web Dev projects<br>I'm looking for help with Development concepts and how to be great at it <br>I'm currently learning MERN stack with little bit of DSA<br>Ask be about Movies ,Anime ,Games,Gadgets,Tech,etc 
+🔭I'm currently working on a Fullstack project for my college 6 sem MiniProject<br>👯I'm looking to collaborate on Web Dev projects<br>🤝I'm looking for help with Development concepts and how to be great at it <br>🌱I'm currently learning MERN stack with little bit of DSA<br>💬Ask be about Movies,Anime ,Games,Gadgets,Tech,etc 
 
 
 ## 🌐 Socials:
