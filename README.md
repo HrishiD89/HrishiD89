@@ -1,8 +1,8 @@
 # About Me:
-- Hi, I am Hrishikesh Kalita a 22-year aspiring FullStack developer <br>
-- I'm looking to collaborate on Web Dev projects<be>
-- I'm looking for help with Development concepts and how to be great at it <be>
-- I'm currently learning MERN stack with a little bit of DSA<br>
+- Hi, I am Hrishikesh Kalita a 22-year-old aspiring full-stack developer <br>
+- I am committed to results, an adaptable learner and ready for any challenge.
+- Committed to delivering, eager to learn constantly.
+- I'm currently learning MERN stack <br>
 
 
 ## 🌐 Socials:
