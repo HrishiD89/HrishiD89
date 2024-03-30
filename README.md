@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭Hi I am Hrishikesh Kalita a 22 year aspiring FullStack developer <br>👯I'm looking to collaborate on Web Dev projects<br>🤝I'm looking for help with Development concepts and how to be great at it <br>🌱I'm currently learning MERN stack with little bit of DSA<br>💬Ask be about Movies,Anime ,Games,Gadgets,Tech,etc 
+# About Me:
+- Hi , I am Hrishikesh Kalita a 22-year aspiring FullStack developer <br>
+- I'm looking to collaborate on Web Dev projects<be>
+- I'm looking for help with Development concepts and how to be great at it <be>
+- I'm currently learning MERN stack with a little bit of DSA<br>
 
 
 ## 🌐 Socials:
