@@ -2,7 +2,7 @@
 - Hi, I am Hrishikesh Kalita a 22-year-old aspiring full-stack developer <br>
 - I am committed to results, an adaptable learner and ready for any challenge.
 - Committed to delivering, eager to learn constantly.
-- I'm currently learning MERN stack <br>
+- Done with all those tutorials now fully committing myself to project based learning and practice <br><br>
 
 
 ## 🌐 Socials:
