@@ -37,9 +37,9 @@ If you'd like, I can add CONTRIBUTING.md and ISSUE templates to make this smooth
 
 ## 📫 Contact
 
-- Email: (add your email)
-- Twitter: [@hrishiiiii__]([https://twitter.com/yourhandle](https://x.com/hrishiiiii__))
-- LinkedIn: [Hrishikesh Kalita]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hrishikesh-kalita-854000207/))
+- Email: [hrishi282k@gmail.com](hrishi282k@gmail.com)
+- Twitter: [@hrishiiiii__](https://x.com/hrishiiiii__)
+- LinkedIn: [Hrishikesh Kalita](https://www.linkedin.com/in/hrishikesh-kalita-854000207/)[Hrishikesh Kalita]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hrishikesh-kalita-854000207/))
 
 Or open an issue or discussion in any repo to start a conversation.
 
