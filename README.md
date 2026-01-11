@@ -1,7 +1,6 @@
 # Hi, I'm Hrishi (HrishiD89)
 
-I'm a software engineer and open-source enthusiast. I build reliable, maintainable systems and enjoy learning new technologies. This repository is my GitHub profile README — a quick snapshot of who I am, what I work on, and how to get in touch.
-
+I'm a software engineer and open-source enthusiast. I build reliable, maintainable systems and enjoy learning new technologies.
 ---
 
 ## 🚀 About Me
