@@ -20,14 +20,6 @@ I'm a software engineer and open-source enthusiast. I build reliable, maintainab
 
 > If a technology shown here is not one you use, I can customize this list — tell me what you prefer.
 
-## ⭐ Featured Projects
-
-- Project A — Short one-line description. [Repo link](https://github.com/your/repo)
-- Project B — Short one-line description. [Repo link](https://github.com/your/repo)
-- Project C — Short one-line description. [Repo link](https://github.com/your/repo)
-
-(Replace the placeholders above with your actual projects; I can populate these if you share links.)
-
 ## 📂 What you'll find in this account
 
 - Personal projects and experiments
@@ -47,8 +39,8 @@ If you'd like, I can add CONTRIBUTING.md and ISSUE templates to make this smooth
 ## 📫 Contact
 
 - Email: (add your email)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@hrishiiiii__]([https://twitter.com/yourhandle](https://x.com/hrishiiiii__))
+- LinkedIn: [Hrishikesh Kalita]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hrishikesh-kalita-854000207/))
 
 Or open an issue or discussion in any repo to start a conversation.
 
